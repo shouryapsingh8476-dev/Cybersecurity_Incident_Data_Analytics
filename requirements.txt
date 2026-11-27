@@ -5,5 +5,3 @@ numpy
 plotly
 scikit-learn
 joblib
-
-https://cybersecurityincidentdataanalytics-6offktjqhzjfyoqucql2ju.streamlit.app/
