@@ -1,4 +1,4 @@
-Live url : https://cybersecurityincidentdataanalytics-6offktjqhzjfyoqucql2ju.streamlit.app/?utm_source=chatgpt.com
+Live url : https://cybersecurityincidentdataanalytics-6offktjqhzjfyoqucql2ju.streamlit.app
 
 # Cybersecurity Incident Data Analytics and Threat Intelligence Dashboard
 
